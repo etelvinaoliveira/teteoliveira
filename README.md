@@ -4,8 +4,8 @@
   </p>
 </div>
 <div>
-  <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=teteoliveira&show_icons=true&theme=dracula&include_all_commits=true'>
-  <img height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=teteoliveira&layout=compact&theme=dracula'>
+  <img height='150cm' src='https://github-readme-stats.vercel.app/api?username=teteoliveira&show_icons=true&theme=dracula&include_all_commits=true'>
+  <img height='150cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=teteoliveira&layout=compact&theme=dracula'>
 </div>
 <div>
   <a href="mailto:etelvina.oliveira2003@gmail.com">
