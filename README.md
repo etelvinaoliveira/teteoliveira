@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**teteoliveira/teteoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p>Olá, meu nome é Etelvina Oliveira.<br>
+  Sou formada no curso Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Campus São João Evangelista-MG. Atualmente estou cursando Ciência da Computação na Universidade Federal de Minas Gerais.
+  </p>
+</div>
+<div>
+  <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=teteoliveira&show_icons=true&theme=dracula&include_all_commits=true'>
+  <img height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=teteoliveira&layout=compact&theme=dracula'>
+</div>
+<div>
+  <a href="mailto:etelvina.oliveira2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/teteoliveira1800/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
