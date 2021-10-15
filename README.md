@@ -7,6 +7,7 @@
   <img height='150cm' src='https://github-readme-stats.vercel.app/api?username=teteoliveira&show_icons=true&theme=dracula&include_all_commits=true'>
   <img height='150cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=teteoliveira&layout=compact&theme=dracula'>
 </div>
+<br>
 <div>
   <a href="mailto:etelvina.oliveira2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
