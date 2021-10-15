@@ -3,6 +3,7 @@
   Sou formada no curso Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Campus São João Evangelista-MG. Atualmente estou cursando Ciência da Computação na Universidade Federal de Minas Gerais.
   </p>
 </div>
+<br>
 <div>
   <img height='150cm' src='https://github-readme-stats.vercel.app/api?username=teteoliveira&show_icons=true&theme=dracula&include_all_commits=true'>
   <img height='150cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=teteoliveira&layout=compact&theme=dracula'>
