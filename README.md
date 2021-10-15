@@ -1,5 +1,8 @@
+<h2>
+  Olá, meu nome é Etelvina Oliveira.
+</h2>
 <div>
-  <p>Olá, meu nome é Etelvina Oliveira.<br>
+  <p>
   Sou formada no curso Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia Campus São João Evangelista-MG. Atualmente estou cursando Ciência da Computação na Universidade Federal de Minas Gerais.
   </p>
 </div>
